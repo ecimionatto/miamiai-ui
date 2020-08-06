@@ -2,8 +2,8 @@ import React from 'react';
 import LexChat from "react-lex";
  
 const Lex = () => {
-  return (<LexChat botName="OrderFlowers"
-                 IdentityPoolId="us-east-1:7292b8c0-56f1-4441-b2a6-xxxxxxxxxxxx"
+  return (<LexChat botName="BHAI"
+                 IdentityPoolId="us-east-1:3cae0463-6ee4-4455-8cf9-98c3998f835a"
                  placeholder="Placeholder text"
                  style={{position: 'absolute'}}
                  backgroundColor="#FFFFFF"
